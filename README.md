@@ -2,18 +2,18 @@
 
 Requestment:
 ============
- · OpenIv - 
- · NativeTrainerDotNet - 
+01. OpenIv - 
+02. NativeTrainerDotNet - 
 
 Install:
 ========
- · Remove ENB files from GTA5 folder (if there is any).
- · Install 'QuantV_Install.oiv' using OpenIV.
- · Done!
+01. Remove ENB files from GTA5 folder (if there is any).
+02. Install 'QuantV_Install.oiv' using OpenIV.
+03. Done!
 
 
 
 Uninstall:
 ==========
- · Install 'QuantV_Uninstall.oiv' using OpenIV.
- · Done!
+01. Install 'QuantV_Uninstall.oiv' using OpenIV.
+02. Done!
