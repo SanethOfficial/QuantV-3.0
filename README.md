@@ -2,8 +2,8 @@
 
 Requestment:
 ============
-01. OpenIv - 
-02. NativeTrainerDotNet - 
+01. OpenIv - https://openiv.com/WebIV/guest.php?get=1
+02. NativeTrainerDotNet - https://www.gta5-mods.com/tools/script-hook-v
 
 Install:
 ========
